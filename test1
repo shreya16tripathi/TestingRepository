@@ -2,6 +2,4 @@ hello
 displayid
 kk
 BugId::32681,
-multiple1dd1
-cc
-regex1
+BugId::B-10300,32682,D-03605
